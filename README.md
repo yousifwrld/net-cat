@@ -1,5 +1,6 @@
 # net-cat
-
+# Author
+- Yousif Ahmed
 # Information
 - This project recreates the NetCat utility in a Server-Client architecture. It can run in server mode on a specified port, listening for incoming connections, or in client mode, connecting to a specified port and transmitting information to the server.
 
